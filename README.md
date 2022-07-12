@@ -1,4 +1,4 @@
-# VascularNavigation
+# Vascular Phantom Navigation - UMB 
 
 To reconstruct the vascular phantom follow these steps:
 
